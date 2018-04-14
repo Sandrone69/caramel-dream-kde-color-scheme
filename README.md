@@ -1,10 +1,12 @@
-# Ash KDE color scheme
-Shades of ash color theme.
+# Caramel Dream KDE color scheme
+Caramel color scheme. Gives off a sweet and intense taste of caramel. Attention to sugar.
 
 Put the color-scheme in: ~/.kde/share/apps/color-schemes/
 
-![resized_ash_buttons](https://user-images.githubusercontent.com/38332358/38719118-98332596-3ef0-11e8-887a-b1f5eb40198f.png)
+![resized_caramel dream dolphin logo](https://user-images.githubusercontent.com/38332358/38764827-84ea9534-3fb6-11e8-9502-a4163eb4c3f6.png)
 
-![resized_ash_desktop](https://user-images.githubusercontent.com/38332358/38719119-9853ba2c-3ef0-11e8-9c85-7383bcf7e343.png)
+![caramel dream dolphin](https://user-images.githubusercontent.com/38332358/38764828-887e4402-3fb6-11e8-91d5-082159cb69c9.png)
 
-![resized_ash_dolphin](https://user-images.githubusercontent.com/38332358/38719120-98775824-3ef0-11e8-82c7-e1d8693f7f7d.png)
+![resized_caramel dream buttons](https://user-images.githubusercontent.com/38332358/38764829-8a973f64-3fb6-11e8-8c7a-d333273cb3d5.png)
+
+![resized_caramel dream desktop](https://user-images.githubusercontent.com/38332358/38764831-8c736a4c-3fb6-11e8-80c5-e1b6cef6f55b.png)
