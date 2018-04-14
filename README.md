@@ -1,5 +1,5 @@
-# Caramel Dream KDE color scheme
-Caramel color scheme. Gives off a sweet and intense taste of caramel. Attention to sugar.
+# Caramel Dream color scheme
+Caramel color scheme for KDE Plasma 5. Gives off a sweet and intense taste of caramel. Attention to sugar.
 
 Put the color-scheme in: ~/.kde/share/apps/color-schemes/
 
